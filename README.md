@@ -10,6 +10,15 @@ Fronted developer with a growing focus on finance and fintech.
 - ⚡ Applying AI to real projects and improving my prompt engineering along the way
 - 🎯 Interested in: Fintech, financial dashboards, payment systems and digital financial markets
 - 📫 Reach me: [Email](mailto:shahiyormannonov5@gmail.com)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=github-dark-blue)](https://git.io/streak-stats)
+
+
+
+
+
 <!--
 **Shahriyor856/Shahriyor856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
