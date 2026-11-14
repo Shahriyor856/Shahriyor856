@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Shahriyor
 
-Fronted developer with a growing focus on finance and fintech.
+Frontend developer with a growing focus on finance and fintech.
 
 - 🎓 Studying [Finance] at Westminster International University in Tashkent (WIUT)
-- 💼 Fronted Developer at [DAS-UTY]
+- 💼 Frontend Developer at [DAS-UTY]
 - 💻 I build web apps with **Nuxt / Vue**
 - 📈 Studying finance and exploring where it meets technology
 - 🌱 Currently mastering **Excel** and learning **Python** and **SQL** for financial data analysis
