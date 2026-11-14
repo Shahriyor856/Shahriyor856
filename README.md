@@ -13,7 +13,7 @@ Fronted developer with a growing focus on finance and fintech.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shahriyor856&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 
