@@ -8,7 +8,7 @@ Frontend developer with a growing focus on finance and fintech.
 - 📈 Studying finance and building financial dashboards that turn raw data into clear insights
 - 🌱 Currently mastering **Excel** and learning **Python** and **SQL** for financial data analysis
 - ⚡ Applying AI to real projects and improving my prompt engineering along the way
-- 🎯 Interested in: Fintech, financial dashboards, payment systems and digital financial markets
+- 🎯 Interested in: Fintech, financial dashboards and digital financial markets
 - 📫 Reach me: [LinkedIn](mailto:https://www.linkedin.com/in/shahriyor-mannonov-453341433) · [Email](mailto:shahiyormannonov5@gmail.com)
 
 ---
