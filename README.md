@@ -2,10 +2,10 @@
 
 Frontend developer with a growing focus on finance and fintech.
 
-- 🎓 Studying [Finance] at Westminster International University in Tashkent (WIUT)
-- 💼 Frontend Developer at [DAS-UTY]
+- 🎓 Studying Finance at Westminster International University in Tashkent (WIUT)
+- 💼 Frontend Developer at DAS-UTY
 - 💻 I build web apps with **Nuxt / Vue**
-- 📈 Studying finance and exploring where it meets technology
+- 📈 Studying finance and building financial dashboards that turn raw data into clear insights
 - 🌱 Currently mastering **Excel** and learning **Python** and **SQL** for financial data analysis
 - ⚡ Applying AI to real projects and improving my prompt engineering along the way
 - 🎯 Interested in: Fintech, financial dashboards, payment systems and digital financial markets
@@ -15,8 +15,17 @@ Frontend developer with a growing focus on finance and fintech.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shahriyor856&theme=github-dark-blue)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyor856&layout=compact&theme=github_dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahriyor856&show_icons=true&theme=github_dark)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyor856&theme=github-compact)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shahriyor856&theme=onedark&no-frame=true)
 
 
 <!--
