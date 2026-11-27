@@ -15,17 +15,11 @@ Frontend developer with a growing focus on finance and fintech.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shahriyor856&theme=github-dark-blue)](https://git.io/streak-stats)
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyor856&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahriyor856&show_icons=true&theme=github_dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyor856&theme=github-compact)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shahriyor856&theme=onedark&no-frame=true)
 
 
 <!--
